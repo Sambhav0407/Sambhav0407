@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! I'm **Saksham** ([@Sambhav0407](https://github.com/Sambhav0407)), a passionate Computer Science Engineering freshman, embarking on my tech journey.
+Hello! I'm **Sambhav** ([@Sambhav0407](https://github.com/Sambhav0407)), a passionate Computer Science Engineering freshman, embarking on my tech journey.
 
 ## 🌱 Currently
 
